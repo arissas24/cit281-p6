@@ -28,7 +28,7 @@ For this project, I built a client-server To-Do List web application using Expre
 
 ---
 
-## Lab 7: 
+## Lab 7: Creating a Personal GitHub Pages Website
 
 In this lab, I created a personal GitHub Pages website, practiced cloning repositories, initialized a Node.js project, and wrote JavaScript code with error handling to strengthen my understanding of GitHub workflows.
 
@@ -40,7 +40,7 @@ In this lab, I learned how to use fetch() and JavaScript promises to handle asyn
 
 ---
 
-## Lab 9:
+## Lab 9: Creating a Release Based Workflow
 
 In this lab, I worked through the GitHub Learning Lab course for creating a release based workflow.
 
